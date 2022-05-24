@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abugah
+- 👋 Hi, I’m Edgar but you ca call me @abugah
 - 👀 I’m interested in front end programming
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on 
